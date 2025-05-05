@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arathald-mcp-editor-badge.png)](https://mseep.ai/app/arathald-mcp-editor)
+
 # mcp-editor
 This is a direct port of [Anthropic's filesystem editing tools](https://github.com/anthropics/anthropic-quickstarts/blob/main/computer-use-demo/computer_use_demo/tools/edit.py) from their computer use demos to a TypeScript MCP server. It was written largely by Claude Sonnet 3.5 on Roo Cline (now Roo Code) with probably not quite enough direct supervision. I checked over the code and use this server every day, but there may be mistakes or AI weirdness.
 
